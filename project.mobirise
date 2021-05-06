@@ -41,7 +41,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "sb4droxelu",
+    "mbrsiteDomain": "plotltd",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -52,7 +52,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "uniqCompNum": 2,
     "versionPublish": "5.3.0",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
