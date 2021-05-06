@@ -52,7 +52,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "uniqCompNum": 2,
     "versionPublish": "5.3.0",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
